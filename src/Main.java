@@ -32,6 +32,5 @@ public class Main {
             System.out.println("Общий вес завтрака в граммах " + VesZavtrakGr);
             System.out.println("Общий вес завтрака =  " + VesZavtrakKg + " киллограм");
 
-
     }
 }
